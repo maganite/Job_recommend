@@ -3,10 +3,12 @@ This README file provides a step-by-step guide to setting up the Job Recommendat
 Prerequisites
 Before you begin, make sure you have the following installed on your system:
 
-Python 3.7+
-pip (Python package manager)
-Virtualenv (optional but recommended for creating isolated Python environments)
-Git
+Python 3.7+, 
+pip (Python package manager), 
+Virtualenv (optional but recommended for creating isolated Python environments), 
+Git, 
+
+
 Project Setup Instructions
 Follow these steps to set up the project on your local machine:
 
