@@ -1,4 +1,3 @@
-Job Recommendation System - README
 This README file provides a step-by-step guide to setting up the Job Recommendation System on your local machine for testing and development purposes. The system is built using Django and Django REST Framework and consists of APIs to add job listings and recommend jobs based on user data.
 
 Prerequisites
